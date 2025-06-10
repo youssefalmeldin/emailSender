@@ -1,0 +1,4 @@
+com\example\emailSend\service\EmailService.class
+com\example\emailSend\controller\EmailController.class
+com\example\emailSend\model\EmailRequest.class
+com\example\emailSend\EmailSendApplication.class
